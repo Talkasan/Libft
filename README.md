@@ -56,7 +56,7 @@ AI Kullanımı:
 - Kullanılan AI Araçları: ChatGPT ve Gemini.
 
 ------------------------------
-İNGİLİZCE
+ENGLISH
 
 *This project has been created as part of the 42 curriculum by <taalkasa>.*
 
